@@ -1,6 +1,6 @@
-# Desafio de automação em pyhton
+# Automação em pyhton usando Selenium
 
-Desafio de automação em python, utilizando o Selenium para fazer a automação de uma compra dos produtos:
+Automação em python, utilizando o Selenium para fazer a automação de uma compra dos produtos:
 
 * Test.allTheThings() T-Shirt (Red)
 * Sauce Labs Bolt T-Shirt
